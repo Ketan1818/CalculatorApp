@@ -1,0 +1,21 @@
+body{
+    height: 100%;
+    width: 100%;
+
+}
+
+.button{
+    padding: 20px;
+    margin: 8px;
+    /* border: 2px solid black; */
+    border-radius: 10px 0 10px 0;
+    font-size: 30px;
+    background-color: rgb(104, 94, 94);
+}
+.input{
+    height: 50px;
+    width: 330px;
+    border-radius: 5px;
+    font-size: 30px;
+    background-color: rgb(167, 218, 224);
+}

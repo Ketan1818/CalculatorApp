@@ -1,0 +1,21 @@
+.h1{
+    text-align: center;
+}
+.container{
+    align-items: center;
+    justify-content: center;
+    /* display: flex; */
+    /* background-color: rgb(68, 60, 60); */
+            
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.container-input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
